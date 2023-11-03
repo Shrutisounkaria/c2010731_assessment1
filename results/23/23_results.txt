@@ -1,0 +1,4 @@
+----------------ORF---------------
+FNRLY*SATVLTASVLVWLLKMVVRFWHVVVLKAALV*PFLSNKANP*VVKLAFPRELRX
+----------------Sequence count---------------
+1
