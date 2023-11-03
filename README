@@ -1,0 +1,20 @@
+Data
+
+Contains downladable data sequences for required questions
+
+Scripts
+
+Contains commands used to produce output for questions from 21-30.
+Saved by file name "Question number".sh
+
+Results
+
+Contains output of questions 21-30.
+21_results.txt
+22_results.txt
+23
+24
+25_results.txt
+26_results.txt
+27_pvalues.txt
+27_results.txt
